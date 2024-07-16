@@ -59,20 +59,81 @@
 }
 
 .main__container .main_pb {
-    position: absolute;
-    margin-left: 40px;
-    cursor: pointer;
+  position: absolute;
+  margin-left: 40px;
+  cursor: pointer;
 }
 
 .main_h5 {
-    margin-left: 330px;
-    margin-top: -40px;
-    cursor: pointer;
-    color: #5e6282;
+  margin-left: 330px;
+  margin-top: -40px;
+  cursor: pointer;
+  color: #5e6282;
 }
 
 .main_group {
-    position: absolute;
-    margin-left: 500px;
-    margin-top: -470px;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: -470px;
+}
+
+.image {
+  display: flex;
+  gap: 75px;
+}
+
+.image1 {
+  margin-top: 100px;
+  cursor: pointer;
+}
+
+.image2 {
+  margin-top: 100px;
+  cursor: pointer;
+}
+
+.image3 {
+  margin-top: 100px;
+  cursor: pointer;
+}
+
+.image4 {
+  margin-top: 100px;
+  cursor: pointer;
+}
+
+.image5 {
+  margin-top: 100px;
+  cursor: pointer;
+}
+
+.hero .hero_span {
+  position: absolute;
+  color: #4475f2;
+  font-weight: 700;
+  margin-top: -30px;
+}
+.hero h2 {
+  margin-top: 130px;
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+
+.hero .rasim1 {
+    margin-bottom: 40px;
+}
+
+.hero .rasim2 {
+    margin-left: 26px;
+    margin-bottom: 40px;
+}
+
+.hero .rasim3 {
+    margin-left: 26px;
+    margin-bottom: 40px;
+}
+
+.hero .rasim4 {
+    margin-left: 26px;
+    margin-bottom: 40px;
 }
